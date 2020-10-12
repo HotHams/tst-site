@@ -1,0 +1,7 @@
+git config --global user.name "Hot Hams"
+git config --global user.email "austin.robinson449@yahoo.com"
+
+The three lines below are for connecting your project to github
+git remote add origin https://github.com/HotHams/HotHams.github.io.git
+git branch -M main
+git push -u origin main

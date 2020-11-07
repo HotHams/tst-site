@@ -1,6 +1,12 @@
+*{
+  margin: 0;
+  border-width: 0px;
+}
+
 body {
     color: #000000;
     background-color: #c04638;
+    border-width: 0px;
   /*   border-style: solid; */
     
   }
@@ -12,10 +18,10 @@ body {
     justify-content: space-evenly;
   }
   
-  img {
+  .background {
     width: 100vw;
   }
-  
+
   .Buttons {
     color: yellow;
     align-items: center;

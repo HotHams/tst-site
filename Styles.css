@@ -1,3 +1,13 @@
+@font-face {
+  src: url(Fonts/Novah.ttf);
+  font-family: Novah;
+}
+
+@font-face {
+  src: url(Fonts/Prisma.ttf);
+  font-family: Prisma;
+}
+
 *{
   margin: 0;
   border-width: 0px;
